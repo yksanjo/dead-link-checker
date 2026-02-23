@@ -1,5 +1,12 @@
 # dead-link-checker
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/dead-link-checker/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/dead-link-checker/actions)
+![License](https://img.shields.io/github/license/yksanjo/dead-link-checker)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/dead-link-checker)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/dead-link-checker)
+
 ## Detailed Description
 
 dead-link-checker is maintained as an industry-grade software project with production-ready engineering practices.  
